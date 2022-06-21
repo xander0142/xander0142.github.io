@@ -16,12 +16,12 @@ img{
     box-shadow: 0px 0px 2px 1px #000;
 }
 
-ul{
-    list-style-type: square;
+li:nth-child(1) {
+    background-color: yellow;
 }
 
-li:nth-child(1) {
-    background-color: #FFFF00;
+ul{
+    list-style-type: square;
 }
 
 a:link, a:visited {
