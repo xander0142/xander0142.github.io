@@ -20,6 +20,10 @@ ul{
     list-style-type: square;
 }
 
+li:nth-child(1) {
+    background-color: yellow;
+}
+
 a:link, a:visited {
     color:darkred;
     text-decoration: none;
