@@ -2,15 +2,32 @@
 .facts {
     list-style-type: none;
 }
+img{
+    width: 150px;
+    height: 150px;
+    height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: aquamarine;
+
+}
 header{
     text-align: center;
+    font-size: 24px;
     color: white;
     background-image: url(/images/lone-starfish-wide.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: auto;
 
 }
+/*header of webpage*/
 
 .box1{
     width: 1000px;
@@ -19,13 +36,8 @@ header{
     margin: 0 auto;
     background:#aad4cf;
   }
-  
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    background-color: aquamarine;
+  /*box sizing for content*/
 
-}
 
 form{
     background-color:#aad4cf;
@@ -35,8 +47,8 @@ form{
     padding: 20px;
     margin: 0 auto;
 }
-
+    /*forms to fill content*/
 footer{
     text-align: right;
 }
-   /* */
+   /*copyright footer*/
