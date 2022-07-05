@@ -3,8 +3,8 @@
     list-style-type: none;
 }
 img{
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     height: auto;
     float: left;
     margin: 3px;
@@ -25,7 +25,6 @@ header{
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
-
 }
 /*header of webpage*/
 
