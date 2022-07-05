@@ -1,7 +1,3 @@
-/* removes bullet points from list of facts*/
-.facts {
-    list-style-type: none;
-}
 img{
     width: 125px;
     height: 125px;
