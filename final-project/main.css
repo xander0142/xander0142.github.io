@@ -17,7 +17,6 @@ html{
 header{
     text-align: center;
     font-size: 24px;
-    color: white;
     background-image: url(/images/main-banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -37,3 +36,6 @@ header{
     clear: both;
 }
 
+.map{
+    float: right;
+}
