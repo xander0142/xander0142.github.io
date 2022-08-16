@@ -10,3 +10,12 @@
     background-color: orange;
     padding: 1rem 0;
 }
+header{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-image: url(/images/main-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
