@@ -25,7 +25,7 @@ body {
   }
   
   .main-nav ul {
-    background-color: blue;
+    background-color: lightskyblue;
     list-style: none;
     display: flex;
     flex-wrap: wrap;
