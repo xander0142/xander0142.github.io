@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Picture This!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="header">
+    <div class="title">
+      <h1>Picture This!</h1>
+      <h4>My Really Cool Blog Post</h4>
+    </div>
+    <picture>
+      <source srcset="images/museum-320.jpg,
+      images/museum-640.jpg 2x,
+      images/museum-960.jpg 3x" media="(mid-width:180px)">
+      <source srcset="images/museum-480.jpg,
+      images/museum-960.jpg 2x,
+      images/museum-1440.jpg 3x" media="(mid-width:320px)">
+      <source srcset="images/museum-720.jpg,
+      images/museum-1440.jpg 2x,
+      images/museum-2160.jpg 3x" media="(mid-width:640px)">
+      <source srcset="images/museum-960.jpg,
+      images/museum-1920.jpg 2x,
+      images/museum-2880.jpg 3x" media="(mid-width:720px)">
+      <source srcset="images/museum-480.jpg,
+      images/museum-960.jpg 2x,
+      images/museum-1440.jpg 3x" media="(mid-width:960px)">
+      <source srcset="images/museum-640.jpg,
+      images/museum-1280.jpg 2x,
+      images/museum-1920.jpg 3x" media="(mid-width:1280px)">
+      <source srcset="images/museum-800.jpg,
+      images/museum-1600.jpg 2x,
+      images/museum-2400.jpg 3x" media="(mid-width:1600px)">
+      <img src="images/museum-640_x_360.jpg" alt="image of museum">
+    </picture>
+  </header>
+<footer>
+    <p>&copy; Copyright 2022 Alexander Pham </p>
+</footer>
+</body>
+
+</html>
