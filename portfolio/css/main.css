@@ -1,6 +1,7 @@
 html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    scroll-behavior: smooth;
 }
 
 body{
