@@ -2,6 +2,8 @@
 MTM6201 - Web Dev II - Portfolio
 All pictures taken are from Alexander Pham
 
+
+
 Tell us about your process, challenges you faced during development and how you overcame those changes?
 
 The challenges that I have encountered during this development is having my own camera. I would always would have to rent a camera at Algonquin, but at least I managed to get to take photos and complete assignments for my photography class.
