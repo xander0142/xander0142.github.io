@@ -1,6 +1,6 @@
 # Portfolio
 MTM6201 - Web Dev II - Portfolio
-
+All pictures taken are from Alexander Pham
 
 Tell us about your process, challenges you faced during development and how you overcame those changes? 
 
