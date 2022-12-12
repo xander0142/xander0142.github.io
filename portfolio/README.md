@@ -1,6 +1,6 @@
 # Portfolio
 MTM6201 - Web Dev II - Portfolio
-All pictures taken are from Alexander Pham
+All pictures are original and taken from Alexander Pham
 
 
 
